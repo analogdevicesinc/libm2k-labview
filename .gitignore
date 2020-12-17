@@ -1,0 +1,10 @@
+.*
+!/.gitignore
+*[Bb]uild*/
+deps
+latex/
+html/
+*__pycache__*
+*.egg-info
+*.aliases
+*.lvlps
