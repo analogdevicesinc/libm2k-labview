@@ -2,7 +2,11 @@
 
 LabVIEW bindings for the [libm2k](https://github.com/analogdevicesinc/libm2k) interface library.
 
-Documentation is available on [wiki.analog.com](https://wiki.analog.com/university/tools/m2k/labview). The C++ API reference is available on [GitHub](https://analogdevicesinc.github.io/libm2k/index.html).
+Documentation is available on [wiki.analog.com](https://wiki.analog.com/university/tools/m2k/labview).
+
+The C++ API reference is available on [GitHub](https://analogdevicesinc.github.io/libm2k/index.html).
+
+The LabVIEW VI documentation is available on [GitHub](https://analogdevicesinc.github.io/libm2k-labview/index.html).
 
 ## Releases
 
