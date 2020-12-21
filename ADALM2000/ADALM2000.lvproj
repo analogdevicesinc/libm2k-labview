@@ -32,6 +32,7 @@
 		<Item Name="Push Channel Analog.vi" Type="VI" URL="../AnalogOut/Push Channel Analog.vi"/>
 		<Item Name="Push Digital.vi" Type="VI" URL="../Digital/Push Digital.vi"/>
 		<Item Name="Push Synchronized Analog.vi" Type="VI" URL="../AnalogOut/Push Synchronized Analog.vi"/>
+		<Item Name="Read Instant Analog.vi" Type="VI" URL="../AnalogIn/Read Instant Analog.vi"/>
 		<Item Name="Read Instant Digital.vi" Type="VI" URL="../Digital/Read Instant Digital.vi"/>
 		<Item Name="Read Voltage Power Supply.vi" Type="VI" URL="../Power Supply/Read Voltage Power Supply.vi"/>
 		<Item Name="Run Continuous Analog.vi" Type="VI" URL="../AnalogIn/Run Continuous Analog.vi"/>
